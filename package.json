@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-builder-mjg",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS aplications with a updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjg1123/devcamp-js-builder-mjg.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Marquis Gaston <marquisgbusiness@gmail.com> (http://www.yourhomepage.com\")",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjg1123/devcamp-js-builder-mjg/issues"
+  },
+  "homepage": "https://github.com/mjg1123/devcamp-js-builder-mjg#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
