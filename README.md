@@ -1,4 +1,4 @@
-## Deccamp JS Footer 
+## Devcamp JS Footer 
 
 > This should be used in the following manner 
 
